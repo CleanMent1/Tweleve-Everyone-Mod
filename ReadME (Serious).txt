@@ -5,6 +5,10 @@
  | |____| |  __/ (_| | | | | |  | |  __/ | | | |_| |
   \_____|_|\___|\__,_|_| |_|_|  |_|\___|_| |_|\__|_|
 
+>> https://www.youtube.com/channel/UCP6dqG88LDz4Ho29U3fdWZw
+>> https://github.com/CleanMent1/BMYST-Everyone
+>> https://www.gtainside.com/user/CleanMent1
+>> https://soundcloud.com/cleanment1
 ___________________________________________________________________________
 
 //Needs:
