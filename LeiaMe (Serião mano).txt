@@ -1,0 +1,52 @@
+   _____ _                  __  __            _  __ 
+  / ____| |                |  \/  |          | |/_ |
+ | |    | | ___  __ _ _ __ | \  / | ___ _ __ | |_| |
+ | |    | |/ _ \/ _` | '_ \| |\/| |/ _ \ '_ \| __| |
+ | |____| |  __/ (_| | | | | |  | |  __/ | | | |_| |
+  \_____|_|\___|\__,_|_| |_|_|  |_|\___|_| |_|\__|_|
+
+>> https://www.youtube.com/channel/UCP6dqG88LDz4Ho29U3fdWZw
+>> https://www.gtainside.com/user/CleanMent1
+>> https://soundcloud.com/cleanment1
+>> https://github.com/CleanMent1
+___________________________________________________________________________
+
+ Tweleve Everyone Mod
+
+	Esse mod muda a skin de todos os personagens e pedestres para o 		Laranja 12 (BMYST) mais conhecido como "Tweleve", com exceção do CJ, 		apenas muda a roupa dele pra ser igual a do Tweleve.
+
+	>> https://github.com/CleanMent1/Tweleve-Everyone-Mod
+
+___________________________________________________________________________
+
+//Necessário:
+
+	>> Cleo 4: https://www.mixmods.com.br/2020/10/biblioteca-cleo-4-4/
+
+
+	>> Modloader: https://www.mixmods.com.br/2018/01/modloader/
+
+___________________________________________________________________________
+
+//Instalação:
+
+	Extraia a pasta "Tweleve Everyone"para a pasta do Modloader.
+
+//Instalação da pasta BONUS:
+
+	Extraia tudo que tem dentro da pasta "BONUS" para a pasta "Tweleve 		Everyone".
+
+___________________________________________________________________________
+
+//Thanks to:
+
+	Mixmods, por disponibilizar os melhores e mais atualizados mods de 		GTA, e por tudo que eu aprendi sobre modificação dos arquivos do 		jogo.
+
+	Hugo One, por me dar a ideia pra fazer esse mod com este 			video: https://www.youtube.com/watch?v=CJljLB1zgQA
+
+	E, mais importante, O Criador, por tudo qu Ele fez por nós.
+	
+	Deus te abençoe!
+	
+	Declarou-lhe o nosso Salvador: "Eu sou a ressurreição e a vida; quem 		crê em mim, ainda que morra, viverá e todo aquele que vive, e crê em 		mim, jamais morrerá. Você crê nisso?"
+
